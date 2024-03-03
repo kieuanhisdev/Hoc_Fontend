@@ -1,0 +1,37 @@
+.button {
+    background-color: #ffffff;
+    border: 2px solid #e6e3f1;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    color: #192335;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.button1, .button2:hover {
+    background-color: #2F57EF;
+    border:2px solid #ccc;
+    color: #fff;
+}
+
+.button2 {
+   
+    background-color: #fff;
+    border: 2px solid #ccc;
+}
+
+.button3 {
+   
+    background-color: #7BA001;
+    border-color: #7BA001;
+    color: #ffffff;
+}
+
+.button3:hover {
+   
+    background-color: #607d00;
+    border-color: #607d00;
+    color: #ffffff;
+}
+

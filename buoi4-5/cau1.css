@@ -1,0 +1,27 @@
+
+
+button {
+    padding: 16px 30px;
+    background-color: #fff;
+    border: solid 2px #ccc;
+    color: #000;
+    font-size: 14px;
+    font-weight: 600px;
+}
+
+.button2 {
+    border-radius: 8px;
+}
+
+.button3 {
+    border-radius: 45px;
+}
+
+.button4 {
+    border-radius: 45px;
+}
+
+.button:hover{
+    background-color: #00f;
+    color: #fff;
+}
